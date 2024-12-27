@@ -1,0 +1,1 @@
+# shopidy-theme-github
